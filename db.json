@@ -1,4 +1,5 @@
-apps: {
-  app1,
-  app2,
+"apps": {
+  "",
+  "app1",
+  "app2",
 }
